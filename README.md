@@ -29,7 +29,7 @@
   I first started with the
   <a href="https://github.com/videre-project">
       <img
-        margin-top: "5px"
+        style="margin-top:15px;"
         align="top"
         src="https://avatars.githubusercontent.com/u/73734744"
         width="20"
@@ -56,7 +56,7 @@
   Recently, I've created the
     <a href="https://github.com/Qonfused/YOINK">
       <img
-        margin-top: "5px"
+        style="margin-top:15px;"
         align="top"
         src="https://raw.githubusercontent.com/Qonfused/YOINK/main/docs/assets/logo.png"
         width="24"
@@ -69,7 +69,7 @@
   <strong>transfer-learning</strong> tricks. This builds upon the work of
   <a href="https://github.com/Qonfused/WarpSpeed">
       <img
-        margin-top: "5px"
+        style="margin-top:15px;"
         align="top"
         src="https://raw.githubusercontent.com/Qonfused/WarpSpeed/main/docs/assets/logo.png"
         width="20"
@@ -84,7 +84,7 @@
   In my free time, I work on several <strong>Hackintosh</strong> projects for the
     <a href="https://github.com/Qonfused/ASUS-ZenBook-Duo-14-UX481-Hackintosh">
       <img
-        margin-top: "15px"
+        style="margin-top:15px;"
         align="justified"
         src="https://raw.githubusercontent.com/Qonfused/ASUS-ZenBook-Duo-14-UX481-Hackintosh/main/docs/assets/README/UX481.png"
         width="24"
@@ -95,7 +95,7 @@
   and
     <a href="https://github.com/Qonfused/ASUS-ZenBook-Pro-Duo-15-UX581-Hackintosh">
       <img
-        margin-top: "15px"
+        style="margin-top:15px;"
         align="justified"
         src="https://raw.githubusercontent.com/Qonfused/ASUS-ZenBook-Pro-Duo-15-UX581-Hackintosh/main/docs/assets/README/UX581.png"
         width="24"
@@ -118,9 +118,9 @@
   I'm always open to collaborate with others looking to expand and make the
   world of tech more accessible. If you'd like to involve me for a project,
   feel free to reach me via
-    <a href="https://www.linkedin.com/in/cory-bennett-a675031a1">
-      <strong>LinkedIn</strong></a>
+    <a href="mailto:csquaredbennett@gmail.com">
+      <strong>Email</strong></a>
   or
-    <a href="http://discordapp.com/users/392815428390354946">
-      <strong>Discord</strong></a>.
+    <a href="https://www.linkedin.com/in/cory-bennett-a675031a1">
+      <strong>LinkedIn</strong></a>.
 </p>
