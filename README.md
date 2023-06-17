@@ -26,7 +26,7 @@
       WarpSpeed</a>.
 </h3>
 <p>
-  I first started with the
+  I first started the
   <a href="https://github.com/videre-project">
       <img
         style="margin-top:15px;"
